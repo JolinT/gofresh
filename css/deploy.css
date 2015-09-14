@@ -1,0 +1,12 @@
+#container{width:1300px}
+
+#person1{height:350px;width:310px;float: left}
+#person2{height:350px;width:340px;float: left}
+#person3{height:350px;width:340px;float: left}
+#person4{height:350px;width:300px;float:left}
+
+#footer
+{
+    background-color: lightslategrey;
+    text-align: center;
+}
